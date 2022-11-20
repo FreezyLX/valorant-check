@@ -3,6 +3,8 @@
 ## Information
 - ⭐ Leave a star to support this project
 -----
+You need a combo or support?
+Join discord.gg/enconomy
 
 ## Option 1 GUI
 ![image](https://user-images.githubusercontent.com/90693180/180217407-bf6e6ad4-f7d3-4cdf-8d34-d2d5a94dc342.png)
