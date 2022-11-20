@@ -1,0 +1,6 @@
+pandas
+requests
+time
+os
+ctypes
+pylo-color
