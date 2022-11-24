@@ -11,3 +11,4 @@ Join discord.gg/enconomy
 ## Option 2 LOG
 ![image](https://user-images.githubusercontent.com/90693180/180217673-99da55e8-f2f0-4a07-8cc0-466db8af1c24.png)
 
+works!!
