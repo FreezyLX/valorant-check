@@ -12,3 +12,5 @@ Join discord.gg/enconomy
 ![image](https://user-images.githubusercontent.com/90693180/180217673-99da55e8-f2f0-4a07-8cc0-466db8af1c24.png)
 
 works!!
+
+good checker and fast 
